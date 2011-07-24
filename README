@@ -1,0 +1,3 @@
+"Add to load the first filenamed .vimrc in the runtimepath
+runtime .vimrc 
+
