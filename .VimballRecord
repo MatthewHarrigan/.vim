@@ -1,1 +1,0 @@
-checksyntax.vba: call delete('/Users/matthew/.vim/doc/checksyntax.txt')|call delete('/Users/matthew/.vim/plugin/checksyntax.vim')|call delete('/Users/matthew/.vim/autoload/checksyntax.vim')
