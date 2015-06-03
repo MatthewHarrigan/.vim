@@ -1,0 +1,6 @@
+Execute current file
+=====================
+
+:! python %
+
+
